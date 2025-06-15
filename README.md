@@ -1,7 +1,5 @@
 # math-skills
 
-<<<<<<< HEAD
-=======
 Objectives
 The purpose of this project is for you to calculate the following:
 
@@ -52,4 +50,3 @@ Median
 Variance
 
 Standard Deviation
->>>>>>> c1f3e84a886bcad6d10a0ab2d8fb1c3a0b52979d
